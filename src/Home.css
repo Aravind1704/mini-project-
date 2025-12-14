@@ -1,0 +1,1121 @@
+
+.nav-item {
+  display: flex;
+  gap: 1px;
+}
+
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 20px;
+  row-gap: 0;
+  background-color: aliceblue;
+  margin: 0px;
+}
+
+
+.nav-item img {
+  width: 24px;
+ height: 24px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.menu{
+    cursor: pointer;
+}
+
+
+.navbar2{
+    display: flex;
+    align-items: center;
+}
+
+.meg{
+    color: #045bb8;
+    cursor: pointer;
+    pointer-events: painted;
+}
+
+
+.searchbar{
+    position: absolute;
+    left: 600px;
+
+}
+
+.input1{
+    background-color: lightblue;
+    width: 450px;
+    height: 30px;
+    
+}
+
+.search{
+    width: 28px;
+    position: absolute;
+    left: 5px;
+    top: 2px;
+    background-color: transparent;
+    border-color:lightblue;
+}
+
+
+.list{
+    position: absolute;
+    top: 4px;
+    right: 9px;
+    background-color: transparent;
+}
+.user1{
+    position:absolute;
+    right: 210px;
+}
+
+
+
+.buy{
+    position: relative;
+    left: 15px;
+   
+}
+.right{ 
+    position: absolute;
+    right: 80px;
+    gap: 20px;
+    display: flex;
+  align-items: center;
+ 
+}
+
+.liste{
+    display: flex;
+    gap: 50px;
+}
+.buttons{
+    display: flex;
+    border-radius: 20px;
+    gap: 10px;
+    background-color:white;
+}
+
+.productbox{
+    background-color: darkslateblue;
+    height: 300px;
+    width: 1700px;
+    margin-left: 200px;
+    border-radius: 10px;
+
+}
+
+.h33{
+    position: absolute;
+    left: 400px;
+    top: 280px;
+    background-color: transparent;
+    color: white;
+}
+
+.h22{
+    position: absolute;
+    left: 400px;
+    top: 300px;
+    background-color: transparent;
+    color: white;
+}
+
+.OFF{
+     position: absolute;
+     left: 400px;
+     top: 370px;
+      background-color: transparent;
+    color: white;
+
+}
+
+.watch{
+    position: absolute;
+    top: 220px;
+    right: 400px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+
+
+
+.dividertop{
+
+ width: 19%;       
+  height: 5px;      
+  background-color:rgb(43, 118, 224);
+  margin: 20px auto; 
+  position: absolute;
+  top: 560px;
+  left: 30px;
+
+}
+.deal{
+    display: flex;
+    margin-left: 30px;
+    
+}
+
+.p{
+    color:blue;
+    position: absolute;
+    left: 270px;
+    top: 528px;
+}
+
+
+
+.card{
+    position: absolute;
+    top: 600px;
+    left: 250px;
+    background-color:white;
+    height: 300px;
+    width: 200px;
+     border-radius: 20px;
+     cursor: pointer;
+     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+}
+
+.Galaxy{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: transparent;
+}
+
+.phone1{
+    position: absolute;
+    left: 60px;
+    top: 10px;
+}
+
+
+.save{
+     position: absolute;
+    left: 50px;
+    top: 250px;
+    background-color: transparent;
+    color: green;
+}
+
+.divider {
+  width: 95%;       
+  height: 2px;      
+  background-color: gray;
+  margin: 20px auto; 
+  position: absolute;
+  top: 230px;
+  left: 5px;
+}
+
+
+
+
+
+
+.cardd{
+    position: absolute;
+    top: 600px;
+    left: 570px;
+    background-color:white;
+    height: 300px;
+    width: 200px;
+     border-radius: 20px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+}
+
+.GalaxyM{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: transparent;
+}
+
+.phone2{
+    position: absolute;
+    left: 20px;
+    top: 11px;
+    background-color: transparent;
+    
+}
+
+
+
+.save1{
+     position: absolute;
+    left: 50px;
+    top: 250px;
+    background-color: transparent;
+    color: green;
+}
+
+.divider {
+  width: 95%;       
+  height: 2px;      
+  background-color: gray;
+  margin: 20px auto; 
+  position: absolute;
+  top: 230px;
+  left: 5px;
+}
+
+
+
+
+.card3{
+    position: absolute;
+    top: 600px;
+    left: 900px;
+    background-color:white;
+    height: 300px;
+    width: 200px;
+     border-radius: 20px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+}
+
+.GalaxyM{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: transparent;
+}
+
+.phone3{
+    position: absolute;
+    left: 10px;
+    background-color: transparent;
+}
+
+
+
+.save1{
+     position: absolute;
+    left: 50px;
+    top: 270px;
+    background-color: transparent;
+    color: green;
+}
+
+.divider {
+  width: 95%;       
+  height: 2px;      
+  background-color: gray;
+  margin: 20px auto; 
+  position: absolute;
+  top: 230px;
+  left: 5px;
+}
+
+
+
+.card4{
+    position: absolute;
+    top: 600px;
+    left: 1200px;
+    background-color:white;
+    height: 300px;
+    width: 200px;
+     border-radius: 20px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+}
+
+.GalaxyM{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: transparent;
+}
+
+.phone4{
+    position: absolute;
+    left: 20px;
+    
+    background-color: transparent;
+}
+
+
+
+.save1{
+     position: absolute;
+    left: 50px;
+    top: 270px;
+    background-color: transparent;
+    color: green;
+}
+
+.divider {
+  width: 95%;       
+  height: 2px;      
+  background-color: gray;
+  margin: 20px auto; 
+  position: absolute;
+  top: 230px;
+  left: 5px;
+}
+
+
+.card5{
+    position: absolute;
+    top: 600px;
+    left: 1500px;
+    background-color:white;
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+     cursor: pointer;
+}
+
+.GalaxyM{
+    display: flex;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+    background-color: transparent;
+}
+
+.phone5{
+    position: absolute;
+    left: 20px;
+   
+    background-color: transparent;
+}
+
+
+
+.save1{
+     position: absolute;
+    left: 50px;
+    top: 270px;
+    background-color: transparent;
+    color: green;
+}
+
+.divider {
+  width: 95%;       
+  height: 2px;      
+  background-color: gray;
+  margin: 20px auto; 
+  position: absolute;
+  top: 230px;
+  left: 5px;
+}
+
+
+.discountcard{
+    position: absolute;
+    left: 150px;
+}
+
+
+
+
+
+.of{
+    position: absolute;
+    left: 160px;
+    top: 0;
+    background-color: transparent;
+    color: white;
+    
+}
+
+.Categories{
+    position: absolute;
+    left: 30px;
+    top: 920px;
+    
+}
+
+
+.sample{
+    height: 1000px;
+    width: 1000px;
+}
+
+
+.dividerto{
+  width: 14%;       
+  height: 4px;      
+  background-color:rgb(43, 118, 224);
+  margin: 20px auto; 
+  position: absolute;
+  top: 950px;
+  left: 30px;
+
+}
+
+
+.one{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 300px;
+}
+
+.phonesm{
+    position: absolute;
+    left: 50px;
+    top: 20px;
+}
+
+
+.one2{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 500px;
+}
+
+.phonesm2{
+    position: absolute;
+    width: 80px;
+    left: 35px;
+    top: 0.5px;
+    background-color: transparent;
+
+}
+
+
+.one3{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 700px;
+}
+
+.phonesm3{
+    position: absolute;
+    width: 150px;
+    left: 1px;
+    top: 0.5px;
+    background-color: transparent;
+}
+
+.one4{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 900px;
+}
+
+.phonesm4{
+    position: absolute;
+    width: 120px;
+    left: 15px;
+    top: 15px;
+    background-color: transparent;
+}
+
+
+.one5{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 1100px;
+}
+
+.phonesm5{
+    position: absolute;
+    width: 150px;
+    left: 1px;
+    top: 0.5px;
+    background-color: transparent;
+}
+
+
+.one6{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 1300px;
+}
+
+.phonesm6{
+    position: absolute;
+    width: 150px;
+    left: 1px;
+    top: 0.5px;
+    background-color: transparent;
+}
+
+.one7{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 5000px;
+    position: absolute;
+    top: 950px;
+    left: 1500px;
+}
+
+.phonesm7{
+    position: absolute;
+    width: 150px;
+    left: 1px;
+    top: 0.5px;
+    background-color: transparent;
+}
+
+
+.mobile{
+    position: absolute;
+    left: 50px;
+    top: 160px;
+}
+
+.Cosmetics{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+
+}
+
+
+.Electronics{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+
+}
+
+.Furniture{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+}
+
+.Watches{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+
+}
+
+.Decor{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+}
+
+.Accessories{
+    position: absolute;
+    left: 38px;
+    top: 160px;
+
+}
+
+.Categoriess{
+position: absolute;
+    left: 30px;
+    top: 1170px;
+
+}    
+
+.dividerto2{
+width: 12%;       
+  height: 5px;      
+  background-color:rgb(43, 118, 224);
+  margin: 20px auto; 
+  position: absolute;
+  top: 1204px;
+  left: 30px;
+  }
+
+
+
+
+  .box1{
+    background-color: black;
+    width: 450px;
+    height: 260px;
+    position: absolute;
+    left: 200px;
+    top: 1250px;
+    border-radius: 20px;
+  }
+
+
+  .phone11{
+    width: 200px;
+    background-color: transparent;
+    position: absolute;
+    left: 250px;
+    top: 15px;
+  }
+
+.iphone{
+    background-color:transparent;
+    color: white;
+    height: 50px;
+    width: 90px;
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    
+    
+}
+
+
+
+.apple{
+    position: absolute;
+    top: 100px;
+    left: 40px;
+    border-radius: 20px;
+}
+  
+.up{
+    position: absolute;
+    top: 180px;
+    left: 20px;
+    background-color: transparent;
+    color: aliceblue;
+}
+
+
+
+
+.box2{
+    background-color: lightyellow;
+    width: 450px;
+    height: 260px;
+    position: absolute;
+    left: 740px;
+    top: 1250px;
+    border-radius: 20px;
+  }
+
+  .narzo{
+     background-color:transparent;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+  }
+
+  .narzo1{
+    color:black;
+    position: absolute;
+    left: 40px;
+    top: 40px;
+  }
+
+
+  .box3{
+    background-color:lightsalmon;
+    width: 450px;
+    height: 260px;
+    position: absolute;
+    left: 1300px;
+    top: 1250px;
+    border-radius: 20px;
+  }
+
+  .XIAOMI{
+    background-color:transparent;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+
+  }
+
+  .upp{
+    color: black;
+    background-color: transparent;
+    position: absolute;
+    top: 180px;
+    left: 20px;
+  }
+
+
+  .XIAOMI1{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+  }
+
+
+  .Essentials{
+    position: absolute;
+    top: 1530px;
+    margin-left: 30px;
+  }
+
+  .dividerto3{
+    width: 9%;       
+  height: 5px;      
+  background-color:rgb(43, 118, 224);
+  margin: 20px auto; 
+  position: absolute;
+  top: 1555px;
+  left: 30px;
+  }
+
+.card11{
+    position: absolute;
+    left: 240px;
+    top: 1650px;
+    
+
+}
+
+.groceries{
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+}
+
+.Vegitables{
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+}
+
+.Fruits{
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+
+}
+
+
+.Strowberry{
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+
+}
+
+
+.Mango{
+
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+}
+
+
+
+
+.Cherry{
+    background-color:rgb(249, 243, 243);
+    border-radius: 30px;
+    width: 220px;
+    height: 200px;
+}
+
+
+
+.card12{
+    position: absolute;
+    left: 510px;
+    top: 1650px;
+    
+
+}
+
+.card13{
+    position: absolute;
+    left: 780px;
+    top: 1650px;
+    
+
+}
+
+
+.card14{
+    position: absolute;
+    left: 1040px;
+    top: 1650px;
+    
+
+}
+
+
+
+.card15{
+    position: absolute;
+    left: 1300px;
+    top: 1650px;
+    
+
+}
+
+
+.card16{
+    position: absolute;
+    left: 1550px;
+    top: 1650px;
+    
+}
+
+
+
+.Rectangle{
+    position: absolute;
+    top: 1970px;
+    width: 1970px;
+    height: 1000px;
+    margin-left: 20px;
+}
+
+
+.arrow{
+    width: 80px;
+    height: 80px;
+    border-radius: 200px;
+    position: relative;
+    top: 85px;
+    left: 1650px;
+}
+.arrows{
+    background-color: transparent;
+}
+
+
+.arrow1{
+    width: 80px;
+    height: 80px;
+    border-radius: 200px;
+    position: relative;
+    top: 85px;
+    right: 110px;
+}
+.arrows1{
+    background-color: transparent;
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+
+
+.footer{
+    background-color: rgb(91, 219, 245);
+    height: 700px;
+    width: 1900px;
+    margin-left: 50px;
+    position: relative;
+    top: 400px;
+}
+
+.footer-section{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+
+}
+
+.meg{
+
+    background-color: transparent;
+
+}
+
+
+.MegaMart{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    background-color:transparent;
+}
+
+
+.Contactus{
+    position: absolute;
+    left: 100px;
+    top: 200px;
+    background-color: transparent;
+    color: white;
+}
+
+
+.whatsapp{
+    position: absolute;
+    left: 80px;
+    top: 250px;
+    background-color: transparent;
+}
+.WhatsAppnum{
+    position: absolute;
+    left: 110px;
+    top: 252px;
+    background-color: transparent;
+    color: white;
+}
+
+.call{
+    position: absolute;
+    left: 80px;
+    top: 310px;
+    background-color: transparent;
+}
+
+.call1{
+    position: absolute;
+    left: 110px;
+    top: 309px;
+    background-color: transparent;
+    color: white;
+}
+
+
+.DownloadApp{
+    position: absolute;
+    left: 100px;
+    top: 390px;
+    background-color: transparent;
+    color: white;
+}
+
+.down{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    background-color: transparent;
+    
+}
+
+.marked{
+    position: absolute;
+    left: 1578px;
+    background-color: transparent;
+}
+.dividerto4{
+width: 90%;       
+  height: 4px;      
+  background-color:rgb(62, 134, 234);
+  margin: 20px auto; 
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  }
+
+  .bottomla{
+    position: absolute;
+    left: 760px;
+    top: 610px;
+    background-color: transparent;
+    color: white;
+
+  }
+
+
+.footer-section1{
+   
+ position: absolute;
+ left: 600px;
+ top: 100px;
+  gap: 30px;
+  background-color: #045bb8;
+  background-color:transparent;
+  padding: 0;
+
+}
+
+.ww{
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    gap: 1px;
+}
+
+
+.most{
+    background-color: transparent;
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 95px;
+    left: 740px;
+
+}
+
+.CustomerServices{
+    background-color: transparent;
+    position: absolute;
+    left: 950px;
+    top: 100px;
+}
+
+
+.ser{
+    background-color: transparent;
+    color:white;
+}
+
+.line{
+    position: absolute;
+    top: 30px;    
+}
+
+
+.dividertoo{
+    width: 100%;       
+  height: 3px;      
+  background-color:white;
+  margin: 20px auto; 
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  }
+
+
+
+  .footer-section{
+    position: absolute;
+    left: 740px;
+    top: 150px;
+    color: white;
+  }
+
+
+.footer-section1{
+    position: absolute;
+    left: 1200px;
+    color: white;
+  }
+
+
+
+  
